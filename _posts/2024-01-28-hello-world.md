@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jed's Technical Blog!"
+title:  "Hello World"
 ---
 
 # Welcome
