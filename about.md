@@ -1,1 +1,1 @@
-# This is the about file
+# About this blog
