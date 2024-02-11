@@ -1,1 +1,1 @@
-# Welcome to Jed's Technical Blog
+# Jed's Technical Blog - Dev
