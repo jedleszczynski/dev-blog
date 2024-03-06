@@ -3,3 +3,11 @@ plugins:
 - jekyll-remote-theme
 minima:
   skin: dark
+  header_pages:
+    - about.md
+  author:
+    name: Jed Leszczynski
+    email: "jedrzej.leszczynski@gmail.com"
+   social_links:
+    - { platform: github,  user_url: "https://github.com/jedleszczynski" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jed-leszczynski/" }
