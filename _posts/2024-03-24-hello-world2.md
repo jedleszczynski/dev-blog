@@ -11,7 +11,7 @@ Take a look at my cat:
 
 ![cat](/assets/cat.jpg) 
 
-Also looks a this ![sample](/assets/sample.txt) downloadable text file
+Also looks a this [sample.txt](assets/sample.txt) downloadable text file
 
 
 ## Example
