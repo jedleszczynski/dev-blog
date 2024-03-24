@@ -6,7 +6,7 @@ title:  "Hello World 2"
 # Welcome 2
 
 **Hello world**, this is my first Jekyll blog post. This is the very first post created with Jekyll & GitHub Pages
-![cat](../assets/cat.png)
+![cat](/assets/cat.png)
 
 ## Example
 
