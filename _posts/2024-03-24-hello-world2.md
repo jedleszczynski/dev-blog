@@ -9,7 +9,17 @@ title:  "Hello World 2"
 
 Take a look at my cat:
 
+Project relative:
 ![cat](/assets/cat.jpg) 
+
+File-relattive
+![cat](../assets/cat.jpg)
+
+Main branch:
+
+![cat](/../main/assets/cat.jpg)
+
+
 
 Also looks a this [sample.txt](/assets/sample.txt) downloadable text file
 
