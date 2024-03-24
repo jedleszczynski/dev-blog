@@ -9,7 +9,7 @@ title:  "Hello World 2"
 
 Take a look at my cat:
 
-![cat]({{ site.baseurl }}/assets/cat.jpg){:width="640px"}
+![cat]({{site.baseurl}}/assets/cat.jpg)
 
 ![cat](dev-blog/assets/cat.jpg?raw=true) 
 
