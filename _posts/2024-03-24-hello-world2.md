@@ -11,10 +11,10 @@ Take a look at my cat:
 
 ![cat]({{site.baseurl}}/assets/cat.jpg)
 
-![cat](dev-blog/assets/cat.jpg?raw=true) 
+![cat](dev-blog/assets/cat.jpg) 
 
 Project relative, same branch:
-![cat](/assets/cat.jpg?raw=true) 
+![cat](/assets/cat.jpg) 
 
 Another branch, always main:
 ![cat](/../main/assets/cat.jpg?raw=true)
