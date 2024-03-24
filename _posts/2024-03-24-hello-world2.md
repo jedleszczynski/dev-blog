@@ -10,10 +10,10 @@ title:  "Hello World 2"
 Take a look at my cat:
 
 Project relative, same branch:
-![cat](/assets/cat.jpg) 
+![cat](/assets/cat.jpg?raw=true) 
 
 Another branch, always main:
-![cat](/../main/assets/cat.jpg)
+![cat](/../main/assets/cat.jpg?raw=true)
 
 Main branch using blob URL:
 
