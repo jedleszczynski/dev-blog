@@ -33,6 +33,7 @@ Full RAW URL:
 
 Also looks a this [sample.txt](dev-blog//assets/sample.txt) downloadable text file
 
+... you can [get the PDF](/assets/sample.txt) directly.
 
 ## Example
 
