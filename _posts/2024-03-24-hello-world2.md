@@ -9,15 +9,21 @@ title:  "Hello World 2"
 
 Take a look at my cat:
 
-Project relative:
+Project relative, same branch:
 ![cat](/assets/cat.jpg) 
 
-File-relattive
-![cat](../assets/cat.jpg)
-
-Main branch:
-
+Another branch, always main:
 ![cat](/../main/assets/cat.jpg)
+
+Main branch using blob URL:
+
+![cat](../blob/main/assets/cat.jpg?raw=true)
+
+Full RAW URL:
+
+![cat](https://raw.githubusercontent.com/jedleszczynski/dev-blog/main/assets/cat.jpg)
+
+
 
 
 
