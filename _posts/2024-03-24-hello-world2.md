@@ -9,9 +9,9 @@ title:  "Hello World 2"
 
 Take a look at my cat:
 
-![cat](/dev-blog/assets/cat.png) 
+![cat](/assets/cat.png) 
 
-Also looks a this ![sample](/dev-blog/assets/sample.txt) downloadable text file
+Also looks a this ![sample](/assets/sample.txt) downloadable text file
 
 
 ## Example
