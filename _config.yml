@@ -1,6 +1,7 @@
 remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
+- jekyll-feed
 minima:
   skin: dark
   header_pages:
@@ -9,5 +10,4 @@ minima:
     name: Jed Leszczynski
     email: "jedrzej.leszczynski@gmail.com"
   social_links:
-    - { platform: github,  user_url: "https://github.com/jedleszczynski" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jed-leszczynski/" }
+    - { platform: github,  user_url: "https://github.com/jedleszczynski" }  
