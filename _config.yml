@@ -1,3 +1,8 @@
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
