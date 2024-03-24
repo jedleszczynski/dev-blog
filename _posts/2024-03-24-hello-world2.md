@@ -9,6 +9,8 @@ title:  "Hello World 2"
 
 Take a look at my cat:
 
+![cat](dev-blog/assets/cat.jpg?raw=true) 
+
 Project relative, same branch:
 ![cat](/assets/cat.jpg?raw=true) 
 
@@ -27,7 +29,7 @@ Full RAW URL:
 
 
 
-Also looks a this [sample.txt](/assets/sample.txt) downloadable text file
+Also looks a this [sample.txt](dev-blog//assets/sample.txt) downloadable text file
 
 
 ## Example
